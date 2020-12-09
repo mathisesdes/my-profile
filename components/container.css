@@ -1,0 +1,15 @@
+.social-media {
+ font-weight: 800;
+}
+
+#media-wrap {
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ border: 0px solid #d9cfc1;
+}
+
+.container {
+ background-color: transparent;
+ border: 0px solid #d9cfc1;
+}
